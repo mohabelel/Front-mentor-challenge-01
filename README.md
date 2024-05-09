@@ -2,19 +2,6 @@
 
 This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
-## Table of contents
-
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
-- [Author](#author)
-- [Acknowledgments](#acknowledgments)
-
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 
 
 ### Links
@@ -35,12 +22,12 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### What I learned
 
-How to use Figma and get the styles I needed professionally, saving a lot of time and gaining some experience in this kind of work .
+I learned how to use Figma and get the styles I needed professionally, saving time and gaining experience in this kind of work.
 
 
 ### Continued development
 
- i want to continue focusing on animation, how to make a professioinal responive designs.
+ I want to continue focusing on animation, and how to make a professional responsive design.
 
 
 
